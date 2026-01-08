@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulations
 A collection of small dynamical models.
 
@@ -15,3 +16,6 @@ A backward analysis model which detects loneliness from its symptoms
 
 ### Matlab/Bystander_effect
 A support model for an artificial agent. The agent detects an emergency as well as non-response from bystanders and sends a message to intervene. 
+=======
+A university project where we implemented animal behavior inside a simulated environment.
+>>>>>>> Python/main
