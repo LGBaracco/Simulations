@@ -1,0 +1,14 @@
+ability_training;           5
+expectation_training;       5
+
+activity;                   1
+
+vulnerability_high;         10
+vulnerability_low;          5
+
+disease_threshold;          200
+performance_threshold;      150
+alcoholism_increase;        1.2
+alcoholism_decrease;        0.8
+
+loneliness_threshold;       20

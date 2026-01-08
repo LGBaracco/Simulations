@@ -1,0 +1,11 @@
+feeling_of_loneliness;          {BOOLEAN}
+
+performance;                    {LEVEL}
+cardiovascular_diseases;        {BOOLEAN}
+
+belief;                         {AGENT, TYPE}
+observation;                    {AGENT, TYPE}
+desire;                         {AGENT, TYPE}
+assessment;                     {AGENT, STATE}
+undesirable;                    {TYPE}
+desirable;                      {TYPE}

@@ -1,0 +1,14 @@
+assess_true(
+
+    observation{Arnie, cardiovascular_diseases{true}};             [1:Inf]
+    observation{Arnie, performance{low}};                          [1:Inf]
+
+    desire{Arnie, feeling_of_loneliness{false}};                   [1:Inf]
+)
+
+assess_false(
+    observation{Arnie, cardiovascular_diseases{false}};            [1:Inf]
+    observation{Arnie, performance{low}};                          [1:Inf]
+
+    desire{Arnie, feeling_of_loneliness{false}};                   [1:Inf]
+)

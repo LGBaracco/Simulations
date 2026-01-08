@@ -1,0 +1,4 @@
+LEVEL;          {high, low}
+TYPE;           {<feeling_of_loneliness>, <performance>, <cardiovascular_diseases>}
+STATE;          {<desirable>, <undesirable>}
+AGENT;          {Arnie}

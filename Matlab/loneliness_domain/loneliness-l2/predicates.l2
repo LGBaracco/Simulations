@@ -1,0 +1,26 @@
+training;                       {BOOLEAN}
+emotion_regulation_ability;     {REAL}
+expectation_about_others;       {REAL}
+
+level_of_vulnerability;         {LEVEL}
+
+activity_engagement;            {REAL}
+social_activities;              {REAL}
+
+feeling_of_loneliness;          {BOOLEAN}
+
+performance;                    {LEVEL}
+alcoholism;                     {REAL}
+cardiovascular_diseases;        {BOOLEAN}
+
+
+
+% plots (use these as examples)
+% note that no curly brackets {} are used
+
+plotEmotionRegAbility;       REAL
+
+% or, when using multiple agents
+plotEmotionRegAbilityArnie;       REAL
+
+

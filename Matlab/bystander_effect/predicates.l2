@@ -1,0 +1,6 @@
+interpretation_of_situation;    {INTERPRETATION}
+form_of_assistance;             {ACTION}
+sending_a_message;              {BOOLEAN}
+
+desire;                         {AGENT, PREDICATE}
+proposal;                       {AGENT, PREDICATE}

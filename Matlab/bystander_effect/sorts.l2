@@ -1,0 +1,4 @@
+INTERPRETATION;     {emergency, normal}      
+ACTION;             {intervene, none}
+AGENT;              {Arnie}
+PREDICATE;          {<interpretation_of_situation>, <form_of_assistance>, <sending_a_message>}
